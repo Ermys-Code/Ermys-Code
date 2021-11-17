@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ermys-Code
+- 👀 I’m interested in all type of programming skills
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on all type of projects
+- 📫 You can contact me by mail: raul.rodriguez.trotonda@gmail.com and phone: +34 662656663
