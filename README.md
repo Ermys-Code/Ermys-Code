@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raulrodriguez.job@gmail.com**
 
-- 🤝 I'm interested on videogame projects aswell software developement
+- 🤝 I'm interested on **videogame projects aswell software developement projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
