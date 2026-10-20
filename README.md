@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **raulrodriguez.job@gmail.com**
 
-- 🤝 I'm interested on **graphics and gameplay programming**
+- 🤝 I'm interested on: **graphics and gameplay programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
