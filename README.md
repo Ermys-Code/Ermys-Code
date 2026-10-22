@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raúl Rodríguez, also known as ErmysCode.</h1>
-<h3 align="center">Videogame developer and future software engineer</h3>
+<h3 align="center">Videogame developer and graphics programmer</h3>
 
 - 🔭 I’m currently working on: **my own project, a real-time render engine in DirectX 12**
 
